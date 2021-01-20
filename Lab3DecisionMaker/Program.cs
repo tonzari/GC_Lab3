@@ -104,7 +104,7 @@ namespace Lab3DecisionMaker
             else
             {
                 Console.WriteLine(Environment.NewLine);
-                Console.WriteLine("Please enter: y or n ");
+                Console.WriteLine($"That's not a y, nor is it an n. Please follow the directions, {userName}");
                 return CheckUserWantsToContinue();
             }
         }
