@@ -21,9 +21,7 @@ namespace Lab3DecisionMaker
             do
             {
                 MainProgramLoop();
-            }
-
-            while (CheckUserWantsToContinue());
+            } while (CheckUserWantsToContinue());
 
             ExitApp();
         }
