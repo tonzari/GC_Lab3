@@ -1,0 +1,13 @@
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\netcoreapp3.1\Lab3DecisionMaker.exe
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\netcoreapp3.1\Lab3DecisionMaker.deps.json
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\netcoreapp3.1\Lab3DecisionMaker.runtimeconfig.json
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\netcoreapp3.1\Lab3DecisionMaker.runtimeconfig.dev.json
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\netcoreapp3.1\Lab3DecisionMaker.dll
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\bin\Debug\netcoreapp3.1\Lab3DecisionMaker.pdb
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.csprojAssemblyReference.cache
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.AssemblyInfoInputs.cache
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.AssemblyInfo.cs
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.csproj.CoreCompileInputs.cache
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.dll
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.pdb
+C:\Users\dude_dude\source\repos\Lab3DecisionMaker\Lab3DecisionMaker\obj\Debug\netcoreapp3.1\Lab3DecisionMaker.genruntimeconfig.cache
