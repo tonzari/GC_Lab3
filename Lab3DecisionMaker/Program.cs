@@ -20,7 +20,7 @@ namespace Lab3DecisionMaker
 
             do
             {
-                MainProgramLoop();
+                GetUserNumber();
             } while (CheckUserWantsToContinue());
 
             ExitApp();
@@ -36,7 +36,7 @@ namespace Lab3DecisionMaker
             return userName;
         }
 
-        public static void MainProgramLoop()
+        public static void GetUserNumber()
         {
             Console.Write($"Enter a number between {minNumber} and {maxNumber}: ");
             userNumInput = Console.ReadLine();
