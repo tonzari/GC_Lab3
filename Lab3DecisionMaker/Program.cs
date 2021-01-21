@@ -85,7 +85,7 @@ namespace Lab3DecisionMaker
         public static bool CheckUserWantsToContinue()
         {
             Console.WriteLine($"{userName}, would you like to continue? (y/n) ");
-            char userInput = Console.ReadKey().KeyChar;
+            char userInput = Char.ToLower(Console.ReadKey().KeyChar);
 
             if (userInput.Equals('y'))
             {
